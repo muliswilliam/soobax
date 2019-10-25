@@ -21,10 +21,6 @@ description: Still procrastinating on coming up with a description.
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Resources:
-    - Getting started: "getstarted"
-    - Featured users: "featured-users"
-    - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
   About me: "http://deanattali.com"
   Support me: "http://deanattali.com/aboutme/#feed-meeee"
 
@@ -52,7 +48,7 @@ social-network-links:
     #  instagram: deanat78
     #  youtube: user/deanat78
     #  spotify: yourname
-    telephone: +254787287049
+  telephone: +254787287049
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
