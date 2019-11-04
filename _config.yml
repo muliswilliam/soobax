@@ -20,9 +20,9 @@ description: Still procrastinating on coming up with a description.
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
-  About me: "http://deanattali.com"
-  Support me: "http://deanattali.com/aboutme/#feed-meeee"
+  Blog: "/"
+  About me: "aboutme"
+  Projects: "projects"
 
 # --- Footer options --- #
 
