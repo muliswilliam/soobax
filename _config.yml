@@ -4,7 +4,7 @@
 title: William Muli
 
 # Short description of your site
-description: Still procrastinating on coming up with a description.
+description: William Muli - Frontend Developer/Builder/Tinkerer.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -29,14 +29,14 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: William Muli
+  name: William
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  # rss: true
   email: "willi.wambu@gmail.com"
   github: muliswilliam
   twitter: muliswilliam
