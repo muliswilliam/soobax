@@ -24,8 +24,7 @@ and I will see how you can have access.
   It supports all the features of the web app as well offline functionality that syncs to the server when the user's device is connected.  
   **Tech Stack:** Ionic, Angular 5, SCSS, NGRX for state management, Service Workers.
   
-- **[Nigeria Elections Dashboard](https://www.bbc.co.uk/news/resources/idt-f0b25208-4a1d-4068-a204-940cbe88d1d3)**
-  - Built for **BBC**, this is a dashboard that provides Nigeria presidential results for 2019. 
+- **[Nigeria Elections Dashboard](https://www.bbc.co.uk/news/resources/idt-f0b25208-4a1d-4068-a204-940cbe88d1d3)** - Built for **BBC**, this is a dashboard that provides Nigeria presidential results for 2019. 
     The data was updated live via **NodeJS**.  
   **Tech Stack:** Webpack, Handlebars, Javascript, NodeJS, HTML, SCSS.
   
