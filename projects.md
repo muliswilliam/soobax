@@ -13,7 +13,7 @@ and I will see how you can have access.
 
 ---
 ## Projects in Production
-- **[Brave Wallet](https://github.com/brave/brave-core)** – A multichain secure cryptocurrency wallet built directly into the    browser. 
+- **[Brave Wallet](https://github.com/brave/brave-core)** – A multichain secure cryptocurrency wallet built directly into the    browser.
   **Tech Stack:**: C++, NodeJS, React, Typescript, HTML, CSS.
 
 - **[Secure Share](https://secureshare.sh)** - A secure file sharing service that allows users to share files with end-to-end encryption.
