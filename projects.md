@@ -13,8 +13,9 @@ and I will see how you can have access.
 
 ---
 ## Projects in Production
-- **[Brave Wallet](https://github.com/brave/brave-core)** – A multichain secure cryptocurrency wallet built directly into the browser. **[Github Link](https://github.com/muliswilliam/secureshare)**
-**Tech Stack:**: C++, NodeJS, React, Typescript, HTML, CSS.
+- **[Brave Wallet](https://github.com/brave/brave-core)** – A multichain secure cryptocurrency wallet built directly into the    browser. 
+  **[Github Link](https://github.com/muliswilliam/secureshare)**
+  **Tech Stack:**: C++, NodeJS, React, Typescript, HTML, CSS.
 - **[Secure Share](https://secureshare.sh)** - A secure file sharing service that allows users to share files with end-to-end encryption. Tech Stack: NestJS, NodeJS, React, Typescript, HTML, CSS.
 - **[Kupfer](https://app.kupfer-software.de)** - Built for Viessmann (an international manufacturer of heating, industrial,
     and refrigeration systems headquartered in Allendorf, Germany.), Kupfer is a web app that allows installers to 
@@ -22,7 +23,6 @@ and I will see how you can have access.
     creation and management of contacts and objects, invoicing for projects and much more.  
     **Tech Stack:** Angular 7, SCSS, NGRX for state management, Intercom for customer communication and Mixpanel for tracking 
     user interactions.
-    
 - **[Kupfer Mobile](https://m.kupfer-software.de)** - For the above project, I additionally build a mobile app for installers to use while on the go.
   It supports all the features of the web app as well offline functionality that syncs to the server when the user's device is connected.  
   **Tech Stack:** Ionic, Angular 5, SCSS, NGRX for state management, Service Workers.
