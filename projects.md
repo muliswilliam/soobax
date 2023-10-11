@@ -7,7 +7,7 @@ carbonads: true
 ---
 
 These are projects I've worked on in the past. For previous employers, clients and some personal.
-I wil try my best to provide a URL for each where possible.
+I will try my best to provide a URL for each where possible.
 If interested in a specific project but cannot view it, feel free to [reach out](https://muliswilliam.github.io/aboutme) 
 and I will see how you can have access.
 
