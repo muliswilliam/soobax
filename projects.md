@@ -20,7 +20,7 @@ and I will see how you can have access.
 
 - **[Secure Share](https://secureshare.sh)** - A secure file sharing service that allows users to share files with end-to-end encryption.
   **[Github Link](https://github.com/muliswilliam/secureshare)**
-  **Tech Stack:** NestJS, NodeJS, React, Typescript, HTML, CSS.
+  **Tech Stack:** NextJS, NodeJS, React, Typescript, HTML, CSS.
 
 - **[Kupfer](https://app.kupfer-software.de)** - Built for Viessmann (an international manufacturer of heating, industrial,
   and refrigeration systems headquartered in Allendorf, Germany.), Kupfer is a web app that allows installers to
